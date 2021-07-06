@@ -45,7 +45,7 @@ def warn(user: User, chat: Chat, reason: str, message: Message, warner: User = N
 
         else:  # ban
             chat.kick_member(user.id)
-            reply = "{} warnings, {} ന് ബണ്ണ് കൊടുത്തു വിട്ടിട്ടുണ്ട്!".format(limit, mention_html(user.id, user.first_name))
+            reply = "{} warnings, {} ന് BAN കൊടുത്തു വിട്ടിട്ടുണ്ട്!".format(limit, mention_html(user.id, user.first_name))
 
         for warn_reason in reasons:
             reply += "\n - {}".format(html.escape(warn_reason))
