@@ -1,4 +1,4 @@
-# tgbot 
+# DHIU what Batch Group Bot
 [OUR CHANNEL](https://t.me/Tips_Tik).
 
 [SUPPORT GROUP](https://t.me/Tips_Tik_discussion)
