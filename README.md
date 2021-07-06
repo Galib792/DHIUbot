@@ -1,7 +1,10 @@
 # tgbot 
 [OUR CHANNEL](https://t.me/Tips_Tik).
+
 [SUPPORT GROUP](https://t.me/Tips_Tik_discussion)
-[YOUTUBE channel](https://www.youtube.com/c/TipsTik)
+
+[YOUTUBE CHANNEL](https://www.youtube.com/c/TipsTik)
+
 [FACEBOOK PAGE](https://www.facebook.com/Tips-Tik-102979944812444)
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
